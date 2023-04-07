@@ -2,7 +2,7 @@
 
 ![problems-solved](https://img.shields.io/badge/problem%20solved-2-1f72ff.svg)
 
-I have taken [HackerRank Python (Basic) Skills Certification Test](https://www.hackerrank.com/skills-verification/python_basic) on __3rd June 2022__. 
+I have taken [HackerRank Python (Basic) Skills Certification Test](https://www.hackerrank.com/skills-verification/python_basic) on __8th April 2023__. 
 Certificate can be viewed [here](https://www.hackerrank.com/certificates/c912555d3929)
 
 2 Questions are asked, as of now 2 questions will be asked from these questions, provided the solution also:
