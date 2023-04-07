@@ -23,7 +23,9 @@ Certificate can be viewed [here](https://www.hackerrank.com/certificates/c912555
 </a>
 
 <br/>
+Checkout my in-depth blog about [HackerRank Python (Basic) Skills Certification]([https://www.hackerrank.com/skills-verification/python_basic](https://www.azhark.com/2023/04/07/hackerrank-python-basic-certification-solutions/))
 
+<br>
 ## New Questions?
 If any new questions comes other than these, make sure to create PR/Issue.
 
